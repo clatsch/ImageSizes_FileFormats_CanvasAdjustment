@@ -1,0 +1,106 @@
+= Bildgrössen, Dateiformate und Arbeitsflächenanpassung
+Cla Tschenett <cla.tschenett@ibw.ch>
+1.0 - 19.02.2024
+:toc:
+:toc-title: Inhaltsverzeichnis
+:icons: font
+:url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+Ziel: Diese Aufgabe hilft dir, die Grundlagen des Speicherns und Exportierens von Bildern in Adobe Photoshop zu verstehen. Du wirst lernen, wie du Bildgrössen änderst und Dateien in verschiedenen Formaten für unterschiedliche Anwendungsfälle speicherst.
+
+== Teil 1: Bildgrösse ändern
+1. Öffne ein beliebiges Bild in Photoshop . Wähle ein Bild aus, das du bearbeiten möchtest. Es kann ein Foto oder eine Grafik sein. (zum Beispiel: https://www.pexels.com/photo/colibri-18118946//[Bild herunterladen])
+
+2. Passe die Bildgrösse an. Gehe zu `Bild > Bildgrösse...` (oder verwende das Tastenkürzel `Alt + Ctrl + I` auf Windows bzw. `Option + Cmd + I` auf einem Mac). Ändere die Breite des Bildes auf 1920 Pixel, achte dabei darauf, dass die Option "Proportionen erhalten" aktiviert ist, um das Seitenverhältnis beizubehalten. Notiere dir die sich daraus ergebende Höhe.
+
+3. Speichere das Bild. Speichere diese Version des Bildes als JPEG. Wähle Datei > Speichern unter..., wähle das JPEG-Format und benenne die Datei um, indem du „_1920“ an den ursprünglichen Dateinamen anhängst. Setze die Qualität auf Maximal (12).
+
+== Teil 2: Speichern in verschiedenen Formaten
+1. Mache die Grössenänderung rückgängig. Mache die Grössenänderung rückgängig, um zum ursprünglichen Bild zurückzukehren (du kannst Bearbeiten > Rückgängig verwenden oder das Bild erneut öffnen, falls du es geschlossen hast).
+
+2. Speichere als PNG. Speichere das Bild nun im PNG-Format. Wähle `Datei > Speichern unter...`, wähle PNG aus der Liste der Formate und benenne die Datei um, indem du „_original“ an den ursprünglichen Dateinamen anhängst.
+
+3. Speichere fürs Web. Jetzt speicherst du eine Version des Bildes für Web-Anwendungen. Gehe zu `Datei > Exportieren > Exportieren als....` Wähle JPEG als Format, setze die Qualität auf 7, und ändere die Bildbreite auf 1920 Pixel. Benenne diese Datei um, indem du „_1920_web“ an den Dateinamen anhängst.
+
+4. Wiederhole Schritt 3 und setzte die Qualität dieses Mal auf 5.
+
+==== Aufgabe
+Vergleiche die Dateigrössen. Vergleiche die Dateigrössen der verschiedenen gespeicherten Versionen. Notiere, wie sich die Dateigrösse zwischen den verschiedenen Formaten und Grössen ändert.
+
+Reflexion. Überlege, warum es wichtig sein könnte, Bilder in verschiedenen Grössen und Formaten zu speichern. Diskutiere, in welchen Situationen jedes Format am besten geeignet wäre.
+
+== Teil 3 Anpassung der Arbeitsfläche
+Nachdem du gelernt hast, wie du die Bildgrösse änderst und Bilder in verschiedenen Formaten speicherst, ist es wichtig, auch zu verstehen, wie du die Arbeitsfläche anpassen kannst. Dies kann nützlich sein, um zusätzlichen Raum um dein Bild zu schaffen oder das Bild für ein bestimmtes Layout oder Format vorzubereiten.
+
+1. Öffne dein Bild in Photoshop. Verwende das Bild, das du bereits in den vorherigen Schritten bearbeitet hast, oder wähle ein neues Bild für diese Übung.
+
+2. Gehe zu `Bild > Arbeitsfläche...`. Hier kannst du die Grösse der Arbeitsfläche ändern, ohne die eigentliche Grösse deines Bildes zu beeinflussen. Das ist besonders nützlich, wenn du Randbereiche hinzufügen oder ein bestimmtes Seitenverhältnis für dein Projekt benötigst.
+
+3. Passe die Grösse der Arbeitsfläche an. Im Dialogfeld "Arbeitsfläche" kannst du die neuen Abmessungen für deine Arbeitsfläche eingeben. Du kannst die Breite und Höhe in verschiedenen Einheiten angeben, z.B. Pixel, Zentimeter oder Zoll. Wenn du möchtest, dass dein Bild zentriert bleibt, stelle sicher, dass das mittlere Kästchen im "Anker"-Diagramm ausgewählt ist. Um beispielsweise einen gleichmässigen Rand um dein Bild zu erstellen, erhöhe die Werte für Breite und Höhe.
+
+4. Wähle eine Hintergrundfarbe. Wenn du die Arbeitsfläche vergrösserst, kannst du eine Farbe für den neu hinzugefügten Bereich wählen. Standardmässig ist diese Option auf "Weiss" eingestellt, aber du kannst sie ändern, indem du auf das Farbfeld klickst und eine neue Farbe auswählst.
+
+5. Bestätige die Änderung. Klicke auf `OK`, um die Änderung an der Arbeitsfläche anzuwenden. Du wirst sehen, dass dein Bild jetzt einen zusätzlichen Rand hat oder dass die Arbeitsfläche auf die neuen Abmessungen angepasst wurde, ohne dass das ursprüngliche Bild verändert wurde.
+
+==== Aufgabe
+Experimentiere mit der Arbeitsfläche. Versuche, die Arbeitsfläche in verschiedenen Grössen und mit unterschiedlichen Hintergrundfarben anzupassen. Erstelle zum Beispiel einmal einen breiten Rand um dein Bild und ein anderes Mal nur einen schmalen Streifen.
+
+Reflexion. Überlege, wie die Anpassung der Arbeitsfläche in verschiedenen Projekten nützlich sein könnte. Denke an Situationen, in denen du vielleicht ein bestimmtes Format oder Layout für Druck oder digitale Präsentationen vorbereiten musst.
+
+== Teil 4: Erstellen eines Profilbildes mit Logo
+Ziel: In diesem Teil der Aufgabe wirst du lernen, wie du ein Profilbild mit den Massen 500x500 Pixel erstellst, indem du mit einem leeren Dokument beginnst und ein Logo darauf platzierst. Dies ist eine nützliche Fähigkeit für die Erstellung von Profilbildern für soziale Medien oder andere Online-Plattformen.
+
+=== Schritt 1: Neues Dokument erstellen
+1. Öffne Photoshop und wähle `Datei > Neu...` aus dem Menü, um ein neues Dokument zu erstellen.
+2. Im Dialogfeld "Neu" gibst du die Breite und Höhe als 500 Pixel ein. Stelle sicher, dass die Einheit auf Pixel eingestellt ist. Klicke auf „Erstellen“, um dein neues Dokument zu öffnen.
+
+=== Schritt 2: Hintergrund vorbereiten
+1. Wähle eine Hintergrundfarbe. Bevor du das Logo platzierst, kannst du entscheiden, ob du eine Farbe als Hintergrund möchtest. Wähle das „Füllwerkzeug“ (Eimer-Symbol) und dann eine Farbe aus der Farbpalette. Klicke auf die Leinwand, um den Hintergrund mit der ausgewählten Farbe zu füllen.
+2. Speichere deine Arbeit. Es ist eine gute Praxis, dein Projekt regelmässig zu speichern. Wähle `Datei > Speichern unter...` und wähle ein Format. Für den Arbeitsprozess ist PSD (Photoshop-Datei) zu empfehlen, da es dir erlaubt, später Änderungen vorzunehmen.
+
+=== Schritt 3: Logo platzieren
+1. Bereite dein Logo vor. Stelle sicher, dass das Logo, das du verwenden möchtest, in einem geeigneten Format vorliegt (z.B. PNG mit transparentem Hintergrund).
+2. Platziere das Logo. Ziehe das Logo-Dateisymbol per Drag-and-Drop direkt in dein Photoshop-Dokument. Photoshop platziert das Logo in einer neuen Ebene. Du kannst das Logo auch über `Datei > Platzieren und einbetten...` in dein Dokument einfügen.
+3. Anpassen der Grösse. Wenn das Logo in deinem Dokument erscheint, ist es möglicherweise nicht perfekt auf die Grösse von 500x500 Pixel abgestimmt. Benutze die Eckpunkte, um das Logo zu skalieren, wobei du die Umschalttaste standardmässig nicht mehr gedrückt hältst, um die Proportionen zu bewahren. Drücke die Enter-Taste, um die Grössenänderung zu bestätigen.
+
+=== Schritt 4: Feinabstimmung und Speichern
+1. Positioniere das Logo. Benutze das Verschiebewerkzeug (V), um das Logo nach Bedarf zu positionieren. Du kannst es zentrieren oder an einer Stelle platzieren, die für dein Profilbild am besten geeignet ist.
+2. Feinabstimmungen. Falls nötig, kannst du weitere Anpassungen vornehmen, wie das Hinzufügen von Text oder das Anwenden von Effekten auf das Logo.
+3. Speichere das finale Bild. Für die Verwendung als Profilbild speichere das Bild als JPEG oder PNG. Wähle `Datei > Exportieren > Exportieren als...` für weitere Optimierungsoptionen oder `Datei > Speichern unter...`, um es direkt zu speichern. Stelle sicher, dass du die Qualitätseinstellungen nach Bedarf anpasst, um ein gutes Gleichgewicht zwischen Bildqualität und Dateigrösse zu finden.
+
+== Fragen und Reflexion
+.Warum ist die Qualitätseinstellung wichtig, wenn Bilder für das Web gespeichert werden?
+[%collapsible]
+====
+Die Qualitätseinstellung ist entscheidend, um ein Gleichgewicht zwischen Bildqualität und Dateigrösse zu finden. Höhere Qualität bedeutet grössere Dateien, was längere Ladezeiten auf Webseiten zur Folge haben kann. Eine optimierte Qualitätseinstellung hilft, die Ladezeiten zu minimieren, während die visuelle Attraktivität des Bildes weitgehend erhalten bleibt.
+====
+
+.Wie beeinflusst die Auflösung eines Bildes seine Anzeige im Web?
+[%collapsible]
+====
+Die Auflösung eines Bildes, gemessen in Pixel pro Zoll (PPI), ist für die Anzeige im Web weniger relevant als die tatsächlichen Pixelabmessungen des Bildes. Bildschirme zeigen Bilder basierend auf ihrer Pixelanzahl an. Eine höhere Auflösung ist hauptsächlich für den Druck wichtig, während für Webanwendungen die Gesamtabmessungen in Pixeln entscheidender sind.
+====
+
+.Was bedeutet "Legacy" in Photoshop, besonders im Kontext von "Für Web speichern (Legacy)"?
+[%collapsible]
+====
+Legacy" bezieht sich auf Funktionen oder Werkzeuge, die in früheren Versionen von Photoshop eingeführt wurden und aus Gründen der Kompatibilität oder Benutzerpräferenz beibehalten werden, obwohl möglicherweise neuere Alternativen existieren. "Für Web speichern (Legacy)" ist ein spezielles Exportwerkzeug, das für die Optimierung von Bildern für das Web entwickelt wurde, indem es Optionen für die Dateigrössenreduktion und Formatwahl bietet, auch wenn neuere Exportoptionen verfügbar sind.
+====
+
+.Warum könnte jemand ein Bild als PNG statt als JPEG speichern?
+[%collapsible]
+====
+PNG wird oft gewählt für Bilder, die Transparenz benötigen, da JPEG dieses Format nicht unterstützt. PNG bietet auch eine verlustfreie Kompression, was es ideal für Grafiken mit scharfen Kanten und Text macht. JPEG ist hingegen besser für Fotografien geeignet, da es eine effizientere Kompression bei Farbübergängen bietet, allerdings auf Kosten einer gewissen Qualitätsminderung durch die verlustbehaftete Kompression.
+====
+
+.Wie kann das Anpassen der Arbeitsfläche in Photoshop für Webdesign nützlich sein?
+[%collapsible]
+====
+Das Anpassen der Arbeitsfläche kann besonders nützlich sein, um Designelemente innerhalb eines bestimmten Layouts oder Rahmens zu positionieren, zusätzlichen Raum für Text oder andere Elemente zu schaffen oder das Seitenverhältnis eines Bildes für spezifische Anforderungen wie Thumbnails oder Banner anzupassen. Es ermöglicht Designern, das Endformat visuell zu planen und zu gestalten.
+====
+
+.Warum ist es wichtig, Bilder in verschiedenen Grössen und Formaten zu speichern?
+[%collapsible]
+====
+Verschiedene Anwendungen erfordern unterschiedliche Bildformate und -grössen. Soziale Medien, Webseiten und Druckmedien haben spezifische Anforderungen an Auflösung, Abmessungen und Dateigrössen. Das Speichern in verschiedenen Grössen und Formaten stellt sicher, dass Bilder für ihre jeweilige Verwendung optimiert sind, was die Ladezeiten verbessert, die Qualität erhält und sicherstellt, dass das Bild auf allen Plattformen korrekt angezeigt wird.
+====
