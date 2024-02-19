@@ -13,16 +13,18 @@ Ziel: Diese Aufgabe hilft dir, die Grundlagen des Speicherns und Exportierens vo
 
 2. Passe die Bildgrösse an. Gehe zu `Bild > Bildgrösse...` (oder verwende das Tastenkürzel `Alt + Ctrl + I` auf Windows bzw. `Option + Cmd + I` auf einem Mac). Ändere die Breite des Bildes auf 1920 Pixel, achte dabei darauf, dass die Option "Proportionen erhalten" aktiviert ist, um das Seitenverhältnis beizubehalten. Notiere dir die sich daraus ergebende Höhe.
 
-3. Speichere das Bild. Speichere diese Version des Bildes als JPEG. Wähle Datei > Speichern unter..., wähle das JPEG-Format und benenne die Datei um, indem du „_1920“ an den ursprünglichen Dateinamen anhängst. Setze die Qualität auf Maximal (12).
+3. Speichere das Bild. Speichere diese Version des Bildes als JPEG. Wähle `Datei > Speichern unter...`, wähle das JPEG-Format und benenne die Datei um, indem du „_1920“ an den ursprünglichen Dateinamen anhängst. Setze die Qualität auf Maximal (12).
 
 == Teil 2: Speichern in verschiedenen Formaten
-1. Mache die Grössenänderung rückgängig. Mache die Grössenänderung rückgängig, um zum ursprünglichen Bild zurückzukehren (du kannst Bearbeiten > Rückgängig verwenden oder das Bild erneut öffnen, falls du es geschlossen hast).
+1. Mache die Grössenänderung rückgängig. Mache die Grössenänderung rückgängig, um zum ursprünglichen Bild zurückzukehren (du kannst `Bearbeiten > Rückgängig` verwenden oder das Bild erneut öffnen, falls du es geschlossen hast).
 
 2. Speichere als PNG. Speichere das Bild nun im PNG-Format. Wähle `Datei > Speichern unter...`, wähle PNG aus der Liste der Formate und benenne die Datei um, indem du „_original“ an den ursprünglichen Dateinamen anhängst.
 
 3. Speichere fürs Web. Jetzt speicherst du eine Version des Bildes für Web-Anwendungen. Gehe zu `Datei > Exportieren > Exportieren als....` Wähle JPEG als Format, setze die Qualität auf 7, und ändere die Bildbreite auf 1920 Pixel. Benenne diese Datei um, indem du „_1920_web“ an den Dateinamen anhängst.
 
 4. Wiederhole Schritt 3 und setzte die Qualität dieses Mal auf 5.
+
+5. Wiederhole Schritt 3 und speichere das Bild als PNG ab.
 
 ==== Aufgabe
 Vergleiche die Dateigrössen. Vergleiche die Dateigrössen der verschiedenen gespeicherten Versionen. Notiere, wie sich die Dateigrösse zwischen den verschiedenen Formaten und Grössen ändert.
