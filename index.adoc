@@ -9,7 +9,7 @@ Cla Tschenett <cla.tschenett@ibw.ch>
 Ziel: Diese Aufgabe hilft dir, die Grundlagen des Speicherns und Exportierens von Bildern in Adobe Photoshop zu verstehen. Du wirst lernen, wie du Bildgrössen änderst und Dateien in verschiedenen Formaten für unterschiedliche Anwendungsfälle speicherst.
 
 == Teil 1: Bildgrösse ändern
-1. Öffne ein beliebiges Bild in Photoshop . Wähle ein Bild aus, das du bearbeiten möchtest. Es kann ein Foto oder eine Grafik sein. (zum Beispiel: https://www.pexels.com/photo/colibri-18118946//[Bild herunterladen])
+1. Öffne ein beliebiges Bild in Photoshop . Wähle ein Bild aus, das du bearbeiten möchtest. Es kann ein Foto oder eine Grafik sein. (zum Beispiel: https://www.pexels.com/photo/colibri-18118946/[Bild herunterladen])
 
 2. Passe die Bildgrösse an. Gehe zu `Bild > Bildgrösse...` (oder verwende das Tastenkürzel `Alt + Ctrl + I` auf Windows bzw. `Option + Cmd + I` auf einem Mac). Ändere die Breite des Bildes auf 1920 Pixel, achte dabei darauf, dass die Option "Proportionen erhalten" aktiviert ist, um das Seitenverhältnis beizubehalten. Notiere dir die sich daraus ergebende Höhe.
 
